@@ -1,2 +1,2 @@
 # TestYii
-This Yii project only for testing
+This Yii project is only for testing
